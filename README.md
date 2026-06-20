@@ -17,8 +17,3 @@ Projeto simples em Python para praticar logica de programacao, funcoes, estrutur
 python "sistema bancario v1.2.py"
 ```
 
-ou
-
-```bash
-python "Biblioteca v1.2.py"
-```
