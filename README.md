@@ -5,7 +5,7 @@ Projeto simples em Python para praticar logica de programacao, funcoes, estrutur
 ## Arquivos
 
 - `sistema bancario v1.2.py`: sistema bancario com operacoes basicas.
-- `Biblioteca v1.2.py`: sistema de biblioteca feito em Python.
+
 
 ## Como executar
 
